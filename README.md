@@ -7,7 +7,7 @@ An isolated, virtualized home lab environment built to safely conduct vulnerabil
 * **Hypervisor:** VirtualBox
 * **Attacker Machine:** Kali Linux
 * **Target Machine:** Metasploitable 2
-* **Network Isolation:** Host-Only Adapter (Isolated from local LAN)
+* **Network Isolation:** Internal Network (Isolated virtual segment; zero host-to-guest or guest-to-host routing).
 
 ## Documentation Index
 * [Network Topology & Setup](./network-topology/)
